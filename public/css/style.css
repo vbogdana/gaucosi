@@ -1289,6 +1289,7 @@ button {
 }
 
 .overlay-boxes__text > * {
+  padding: 0 1rem;
   position: relative;
   z-index: 10;
 }
@@ -1804,9 +1805,9 @@ button {
 /* DATEPICKER */
 #ui-datepicker-div {
   width: 300px;
-  background-image: url("images/pattern.png")
-      background-attachment: fixed;
-    background-size: inherit;
+  background-image: url("images/pattern.png");
+  background-attachment: fixed;
+  background-size: inherit;
   padding: 2em;
   border: 1px solid #E6ECF3;
   display: none;
@@ -7845,6 +7846,10 @@ div.cs-select:focus {
   transition: transform 0.4s;
 }
 
+.cd-horizontal-timeline .events ol {
+    list-style-type: none;
+}
+
 .cd-horizontal-timeline .filling-line {
   /* this is used to create the green line filling the timeline */
   position: absolute;
@@ -8079,7 +8084,7 @@ div.cs-select:focus {
 }
 
 .cd-horizontal-timeline .events-content em::before {
-  content: '- ';
+  //content: '- ';
 }
 
 .cd-horizontal-timeline .events-content .main-header, .cd-horizontal-timeline .events-content .menu-categorize .nav-tabs .menu-categorize__header, .menu-categorize .nav-tabs .cd-horizontal-timeline .events-content .menu-categorize__header, .cd-horizontal-timeline .events-content .menu-categorize .nav-tabs .panel-heading .main-header > a, .menu-categorize .nav-tabs .panel-heading .cd-horizontal-timeline .events-content .main-header > a, .cd-horizontal-timeline .events-content .menu-categorize .panel-heading .nav-tabs .main-header > a, .menu-categorize .panel-heading .nav-tabs .cd-horizontal-timeline .events-content .main-header > a {
@@ -9567,4 +9572,15 @@ Javascript disabled
 
 .copy-right a {
   color: #E6ECF3;
+}
+
+
+#info .highlighted-section-2 {
+    background-image: url(../images/pattern.png) !important;
+    background-color: #fff;
+}
+
+#info .highlighted-section-3 {
+    background-image: none;
+    background-color: #fff;
 }
