@@ -279,7 +279,7 @@
                                     <h1 class="main-header">Filip Mitrović</h1>
                                     <p class="deco-text remove-pb-t">
                                         Ne propustite priliku da posetite Gaučose u subotu 25.12.2016.
-                                        i uverite se u nezaboravan provod uz Filipa Mitrovića i Antidepresiv Band!
+                                        i uverite se u nezaboravan provod uz Filipa Mitrovića i Antidepresiv Bend!
                                         <br />
                                         <a href="#reserv" class="btn-main medium transparent-2 scrollTo">
                                             Rezerviši
@@ -582,7 +582,7 @@
                         <div class="col-md-6 space-md-30 clearfix">            
                             <div class="overlay-boxes__text text-center" style="background:white! important;">
                                 <h1 class="text-bold main-header">REZERVACIJE</h1>
-                                <p>Ukoliko želite da posetite naš klub, rezervacije su besplatne, ali obavezne.</br>
+                                <p>Ukoliko želite da posetite naš klub, rezervacije su besplatne, ali obavezne.
                                     Možete rezervisati preko  broja telefona, emaila ili online jednostavnim popunjavanjem forme.</p>
                                 <ul>
                                     <li>tel: <a href="tel:+381649002080"> +381 (064) 900 20 80 </a></li>
