@@ -2733,7 +2733,7 @@ button {
   color: #24252f;
   text-decoration: none;
   text-transform: uppercase;
-  line-height: 1.25;
+  line-height: 1.15;
   height: auto;
   font-family: "Playfair Display", serif;
 }
@@ -2819,7 +2819,7 @@ button {
   padding: 10px 0;
   font-size: 46px;
   text-transform: uppercase;
-  line-height: 1.25;
+  line-height: 1.15;
   height: auto;
   font-family: "Playfair Display", serif;
   color: #24252f;
@@ -2857,6 +2857,7 @@ button {
 @media (max-width: 991px) {
   .dl-menuwrapper li a {
     font-size: 20px;
+    padding: 5px 0;
   }
 }
 

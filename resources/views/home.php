@@ -80,11 +80,12 @@
                                     </li>
                                     <li><a href="#contact" data-scroll class="scrollTo">NAŠA LOKACIJA</a>
                                     </li>
-                                    <li><a href="#reserv" data-scroll class="scrollTo">ONLINE REZERVACIJA</a>
+                                    <li><a href="#reserv" data-scroll class="scrollTo">REZERVACIJA</a>
                                     </li>
                                     <li><a href="#gallery" data-scroll class="scrollTo">GALERIJA</a>
                                     </li>
-
+                                    <li><a href="#info" data-scroll class="scrollTo">KONTAKT</a>
+                                    </li>
                                 </ul>
                                 <!-- end of menu -->
                             </nav>
@@ -295,8 +296,13 @@
                             <h1 class="overlay-header">FABRIKA DOBROG PROVODA</h1>
                         </div>
                     </div><!-- / separator -->
+                
+                </section>
+                <!-- end events -->
+                
+                <section id="about" class="pages layer_z" data-zindex="10">
 
-                    <div class="container-fluid-flat same-height"  id="about">
+                    <div class="container-fluid-flat same-height">
                         <div class="row" >
                             <div class="col-md-4 height-recev" >
                                 <div class="overlay-boxes__text with-bg-right with-center">
@@ -599,7 +605,11 @@
                         </div>
                     </div><!-- / container-fluid-flat -->
 
-                    <div id="reserv" class="space-y highlighted-section-2">
+                </section>
+                <!-- /end location -->
+                
+                <section id="reserv" class="pages">
+                    <div class="space-y highlighted-section-2">
                         <div class="container-fluid highlighted-section-3 add-marg">
                             <div class="row">
                                 <div class="col-md-12 text-center">
@@ -713,7 +723,7 @@
                     </div><!-- / reserv -->
 
                 </section>
-                <!-- end contact -->
+                <!-- end reservation -->
 
                 <section id="gallery" class="pages">
 
@@ -767,7 +777,7 @@
                     </div>
                     
                 </section>
-                <!-- / GALLERY --> 
+                <!-- / end GALLERY --> 
 
                 <section id="info" class="pages space-y-t highlighted-section-2">
                     
@@ -826,7 +836,8 @@
                         </div>
                     </div><!-- end copy right -->
 
-                </section><!-- / INFO -->
+                </section>
+                <!-- / INFO -->
 
             </div><!-- / wrapper -->
 
