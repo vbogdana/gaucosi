@@ -9585,3 +9585,12 @@ Javascript disabled
     background-image: none;
     background-color: #fff;
 }
+
+.overlay-grid {
+    cursor: pointer;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.1);
+    z-index: 10;
+}

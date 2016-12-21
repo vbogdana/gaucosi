@@ -65,7 +65,7 @@
 
                             <div class="brand-wrap clearfix">
 
-                                <a href="index.html" class="brand">
+                                <a href="<?php echo url("") ?>" class="brand">
                                     <img src="images/logo/logobeli.png" class="logo-white retina-img" alt="logo gaucosi">
                                     <img src="images/logo/logocrni.png" class="logo-dark retina-img" alt="logo gaucosi">
 
@@ -357,7 +357,7 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (2).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (2).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (2).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -371,7 +371,7 @@
                                             </a> 
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (3).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (3).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (3).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -385,7 +385,7 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (4).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (4).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (4).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -399,7 +399,7 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (5).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (5).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (5).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -413,7 +413,7 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                           <a href="images/enterijer/enterijer (6).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                           <a href="images/enterijer/enterijer (6).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (6).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -427,7 +427,7 @@
                                             </a> 
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (7).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (7).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (7).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -441,7 +441,7 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (8).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (8).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (8).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -455,7 +455,7 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (9).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                            <a href="images/enterijer/enterijer (9).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
                                                 <img src="images/enterijer/enterijer (9).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
@@ -745,51 +745,103 @@
                     <div id="ri-grid" class="ri-grid ri-grid-size-2">
                         <img class="ri-loading-image" src="images/ajax-loader.gif" alt="Loader">
                         <ul>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera2.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera3.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera4.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera5.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera6.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera7.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/atmosfera8.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/10.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/11.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/12.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/13.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/14.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/15.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/16.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/17.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/18.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/19.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/20.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/21.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/22.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/23.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/24.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/25.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/26.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/27.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/28.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/29.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/30.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/17.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/18.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/19.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/20.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/21.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/22.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/23.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/24.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/25.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/26.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/27.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/28.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/29.jpg" alt="Gaucosi Atmosfera"></a></li>
-                            <li><a href="#"><img src="images/atmosfera/30.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera.jpg"><img src="images/atmosfera/atmosfera.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera2.jpg" ><img src="images/atmosfera/atmosfera2.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera3.jpg"><img src="images/atmosfera/atmosfera3.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera4.jpg"><img src="images/atmosfera/atmosfera4.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera5.jpg"><img src="images/atmosfera/atmosfera5.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera6.jpg"><img src="images/atmosfera/atmosfera6.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera7.jpg"><img src="images/atmosfera/atmosfera7.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera8.jpg"><img src="images/atmosfera/atmosfera8.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera10.jpg"><img src="images/atmosfera/10.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera11.jpg"><img src="images/atmosfera/11.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera12.jpg"><img src="images/atmosfera/12.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera13.jpg"><img src="images/atmosfera/13.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera14.jpg"><img src="images/atmosfera/14.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera15.jpg"><img src="images/atmosfera/15.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera16.jpg"><img src="images/atmosfera/16.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera17.jpg"><img src="images/atmosfera/17.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera18.jpg"><img src="images/atmosfera/18.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera19.jpg"><img src="images/atmosfera/19.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera20.jpg"><img src="images/atmosfera/20.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera21.jpg"><img src="images/atmosfera/21.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera22.jpg"><img src="images/atmosfera/22.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera23.jpg"><img src="images/atmosfera/23.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera24.jpg"><img src="images/atmosfera/24.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera25.jpg"><img src="images/atmosfera/25.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera26.jpg"><img src="images/atmosfera/26.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera27.jpg"><img src="images/atmosfera/27.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera28.jpg"><img src="images/atmosfera/28.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera29.jpg"><img src="images/atmosfera/29.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera30.jpg"><img src="images/atmosfera/30.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera17.jpg"><img src="images/atmosfera/17.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera18.jpg"><img src="images/atmosfera/18.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera19.jpg"><img src="images/atmosfera/19.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera20.jpg"><img src="images/atmosfera/20.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera21.jpg"><img src="images/atmosfera/21.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera22.jpg"><img src="images/atmosfera/22.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera23.jpg"><img src="images/atmosfera/23.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera24.jpg"><img src="images/atmosfera/24.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera25.jpg"><img src="images/atmosfera/25.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera26.jpg"><img src="images/atmosfera/26.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera27.jpg"><img src="images/atmosfera/27.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera28.jpg"><img src="images/atmosfera/28.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera29.jpg"><img src="images/atmosfera/29.jpg" alt="Gaucosi Atmosfera"></a></li>
+                            <li><a href="images/atmosfera/atmosfera30.jpg"><img src="images/atmosfera/30.jpg" alt="Gaucosi Atmosfera"></a></li>
                         </ul>
                     </div>
+                    
+                    <div class="owl-carousel">
+                        <div> <img src="images/galerija/gg1.jpg" alt=""> </div>
+                        <div> <img src="images/galerija/gg2.jpg" alt=""> </div>
+                        <div> <img src="images/galerija/gg3.jpg" alt=""> </div>
+                        <div> <img src="images/galerija/gg4.jpg" alt=""> </div>
+                        <div> <img src="images/galerija/gg5.jpg" alt=""> </div>
+                        <div> <img src="images/galerija/gg6.jpg" alt=""> </div>
+                        <div> <img src="images/galerija/gg7.jpg" alt=""> </div>
+                    </div>
+                    <!-- owl carousel -->
+                    <!--
+                    <div class="scroller-carousel mag-popup" data-mts-type="hover-80" data-popup-gallery-enable="true" data-popup-main-class="mfp-slide-right" data-popup-removal-delay="800">                 
+                        <ul>
+                            <li>
+                                <a href="images/galerija/gg1.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg1.jpg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="images/galerija/gg2.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg2.jpg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="images/galerija/gg3.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg3.jpg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="images/galerija/gg4.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg4.jpg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="images/galerija/gg5.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg5.jpg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="images/galerija/gg6.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg6.jpg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="images/galerija/gg7.jpg" rel="" class="mag-lightbox click-link" >
+                                    <img src="images/galerija/gg7.jpg" alt="">
+                                </a>
+                            </li>
+                        </ul>    
+                    </div>
+                    -->
                     
                 </section>
                 <!-- / end GALLERY --> 
