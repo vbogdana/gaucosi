@@ -11,7 +11,7 @@
             <p> Broj ljudi: {{ $people }} </p>
             <p> Sedenje: {{ $seating }} </p>
             <p> Dan: {{ $day }} </p>
-            <!--<p> Napomena:  </p>-->
+            <p> Napomena:  {{ $comment }} </p>
         </div>
     </body>
 </html>

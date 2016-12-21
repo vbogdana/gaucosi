@@ -237,7 +237,18 @@
 					self.reset();
 
 					if (typeof response.responseText === 'string' && response.responseText.length > 0) {
-						self.errorMessage('<pre>' + response.responseText + '</pre>');
+						if (response.responseText == 'success') {
+                                                    var $successMessage = $('<div class="quform-success-message"/>').html("Your reservation was successful. You will receive a confirmation message very soon.").hide().insertBefore(self.$container).fadeIn(options.successFadeInSpeed).show(0, function() {
+                                                    // successEnd function
+                                                    if (typeof options.successEnd === 'function') {
+                                                    options.successEnd.call(self, response, $successMessage);
+                                                    }
+                                                    });
+                                                } else if (response.responseText == 'fail') {
+                                                    self.errorMessage('<pre>' + "Something went wrong. Please try again shortly." + '</pre>');
+                                                } else {
+                                                    self.errorMessage('<pre>' + response.responseText + '</pre>');
+                                                }
 					} else {
 						self.errorMessage(options.errorAjax);
 					}

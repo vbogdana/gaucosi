@@ -581,13 +581,7 @@
                         <div class="col-md-6 space-md-30 clearfix add-rotat-header">
                             <div class="map-container">
                                 <div id="googleMap" class="map-wrap" style="max-height:800px">
-                                    <div class="gmap_canvas" 
-                                         data-latitude="44.828692" 
-                                         data-longitude="20.452191" 
-                                         data-style-num="0" 
-                                         data-marker-location1="Bulevar Vojvode Bojovica 10,11000 Beograd , Srbija" 
-                                         data-marker1-content="Gaucosi">
-                                    </div>
+                                    <div id="map-canvas" class="gmap_canvas" data-lat="44.828717" data-long="20.452253" data-img="<?php echo url("") ?>/images/location-pointer.png" ></div>
                                 </div>
                             </div>
                         </div>
@@ -740,6 +734,7 @@
                                 </div>
                             </div>
                         </div>
+                        <a href="../../.env"></a>
                     </div><!-- / reserv -->
 
                 </section>
@@ -879,8 +874,7 @@
         <script src="js/jquery.bxslider.min.js"></script>
         <script src="js/multi.level.menu.js"></script>
 
-        <script src="http://maps.google.com/maps/api/js?key=AIzaSyB_ym_bVVv7zpAmR64waZanaVqerkVrb8Q"></script>
-        <script src="js/map-script.js"></script>
+        <script src="js/map.js"></script>
 
         <script src="js/jquery.magnific-popup.min.js"></script>
         <script src="quform/js/plugins.js"></script>
@@ -908,7 +902,7 @@
 
         <script src="js/custom.js"></script>
 
-
+        
     </body>
 
 </html>

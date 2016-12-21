@@ -14,7 +14,7 @@ class ContactController extends Controller
            'people' => $request->input('people_select'),
            'seating' => $request->input('seating_select'),
            'day' => $request->input('time_select'),
-           //'content' => $request->input('content')
+           'comment' => $request->input('comment')
         ];
 
         Mail::send('emails.reservation', $data, function ($message)
@@ -24,10 +24,10 @@ class ContactController extends Controller
         });
 
         if( count(Mail::failures()) > 0 ) {
-            return view('home', ['result' => "fail"]);
+            return "fail";
             //return redirect()->route('online-reservation', ['result' => "fail"]);
         } else {
-            return view('home', ['result' => "success"]); 
+            return "success"; 
             //return redirect()->route('online-reservation', ['result' => "success"]);
         }
 
