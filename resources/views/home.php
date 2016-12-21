@@ -1,10 +1,30 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class=" js flexbox webgl no-touch geolocation hashchange history websockets rgba hsla multiplebgs backgroundsize borderimage textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage applicationcache svg svgclippaths mediaqueries no-regions supports">
 
     <head>
         <meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title> Gaučosi - Belgrade Night Club</title>
+		
+						<script>
+				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+				  ga('create', 'UA-89292527-1', 'auto');
+				  ga('send', 'pageview');
+
+						</script>
+				
+				
+		<meta property="fb:pages" content="gaucosi.belgrade">
+		<meta name="description" content="Gaucosi jedinstven nocni klub u Beogradu,koncept dopadljiv svima.Nalazi se u samom srcu Dorcola kod Kalemegdana.064 900 20 80">
+		<meta property="og:locale" content="en_US">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://www.gaucosi.rs">
+		<meta property="og:site_name" content="Gaucosi">
         <link rel="icon" href="favicontransparent.ico">
 
         <!-- Mobile Specific Meta -->
@@ -46,8 +66,8 @@
                             <div class="brand-wrap clearfix">
 
                                 <a href="index.html" class="brand">
-                                    <img src="images/logo/logobeli.png" class="logo-white retina-img" alt="">
-                                    <img src="images/logo/logocrni.png" class="logo-dark retina-img" alt="">
+                                    <img src="images/logo/logobeli.png" class="logo-white retina-img" alt="logo gaucosi">
+                                    <img src="images/logo/logocrni.png" class="logo-dark retina-img" alt="logo gaucosi">
 
                                 </a>
                             </div>
@@ -113,7 +133,7 @@
                                 <!-- SLIDE  -->
                                 <li data-index="rs-688" data-transition="fadethroughdark" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="2000" data-thumb="images/hero-img/thumb/saltfreshfield.jpg" data-rotate="0" data-saveperformance="off" data-title="DOBRODOŠLI" data-param1="01" data-description="">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/media/gaucosi.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" class="rev-slidebg" data-no-retina>
+                                    <img src="images/media/gaucosi.png" alt="gaucosi glavna" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" class="rev-slidebg" data-no-retina>
                                     <!-- LAYERS -->
 
                                     <!-- BACKGROUND VIDEO LAYER -->
@@ -151,7 +171,7 @@
                                 <!-- SLIDE  -->
                                 <li data-index="rs-689" data-transition="fadethroughdark" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="2000" data-thumb="images/hero-img/thumb/separatore-indulge.jpg" data-rotate="0" data-saveperformance="off" data-title="pripremi se" data-param1="02" data-description="">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/hero-img/enteriermain.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" class="rev-slidebg" data-no-retina>
+                                    <img src="images/hero-img/enteriermain.jpg" alt="Gaucosi enterijer" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" class="rev-slidebg" data-no-retina>
                                     <!-- LAYERS -->
 
                                     <!-- LAYER NR. 3 -->
@@ -193,7 +213,7 @@
                                 <!-- SLIDE  -->
                                 <li data-index="rs-690" data-transition="fadethroughdark" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="2000" data-thumb="images/hero-img/thumb/zurkamain.jpg" data-rotate="0" data-saveperformance="off" data-title="REZERVIŠI" data-param1="03" data-description="">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/hero-img/zurkamain2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" class="rev-slidebg" data-no-retina>
+                                    <img src="images/hero-img/zurkamain2.jpg" alt="zurka" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" class="rev-slidebg" data-no-retina>
                                     <!-- LAYERS -->
 
                                     <!-- LAYER NR. 3 -->
@@ -247,7 +267,7 @@
                         <div class="col-sm-6">
                             <div class="overlay-boxes__text with-bg-right">
                                 <div class="overlay-boxes__text-inside">
-                                    <h1 class="main-header">MILAN ANKIĆ</h1>
+                                    <h2 class="main-header">MILAN ANKIĆ</h2>
                                     <p class="deco-text remove-pb-t">
                                         Najbolji provod u Beogradu ovog, kao i svakog petka, u Gaučosima.
                                         Za dobru zabavu uz najnovije hitove pobrinuće se Milan Ankić i Nađa Golubović. 
@@ -277,7 +297,7 @@
                         <div class="col-sm-6">
                             <div class="overlay-boxes__text">
                                 <div class="overlay-boxes__text-inside" style="background:white! important;">
-                                    <h1 class="main-header">Filip Mitrović</h1>
+                                    <h2 class="main-header">Filip Mitrović</h2>
                                     <p class="deco-text remove-pb-t">
                                         Ne propustite priliku da posetite Gaučose u subotu 25.12.2016.
                                         i uverite se u nezaboravan provod uz Filipa Mitrovića i Antidepresiv Bend!
@@ -293,7 +313,7 @@
                     
                     <div class="separator separator-deco story-bg" data-story-bg="atmosfera/fabrikaprovoda" data-stellar-background-ratio=".5" data-stellar-vertical-offset="0">
                         <div class="separator__inner">
-                            <h1 class="overlay-header">FABRIKA DOBROG PROVODA</h1>
+                            <h1 class="overlay-header"> JEDINSTVEN KONCEPT NOĆNOG KLUBA U BEOGRADU</h1>
                         </div>
                     </div><!-- / separator -->
                 
@@ -324,7 +344,7 @@
                                         data-popup-removal-delay="800">
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer.jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581">
-                                                <img src="images/enterijer/enterijer.jpg" alt="">
+                                                <img src="images/enterijer/enterijer.jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -338,7 +358,7 @@
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (2).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (2).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (2).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -352,7 +372,7 @@
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (3).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (3).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (3).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -366,7 +386,7 @@
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (4).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (4).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (4).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -380,7 +400,7 @@
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (5).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (5).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (5).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -393,8 +413,8 @@
                                             </a>
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
-                                            <a href="images/enterijer/enterijer (6).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (6).jpg" alt="">
+                                           <a href="images/enterijer/enterijer (6).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
+                                                <img src="images/enterijer/enterijer (6).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -404,11 +424,11 @@
                                                         <p>Enterijer</p>
                                                     </div>
                                                 </div>
-                                            </a>
+                                            </a> 
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (7).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (7).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (7).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -422,7 +442,7 @@
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (8).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (8).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (8).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -436,7 +456,7 @@
                                         </li>
                                         <li class="col-lg-4 col-md-6 col-sm-6">
                                             <a href="images/enterijer/enterijer (9).jpg" rel="" class="item-categorize-3__inner mag-lightbox" title="&copy code 581"">
-                                                <img src="images/enterijer/enterijer (9).jpg" alt="">
+                                                <img src="images/enterijer/enterijer (9).jpg" alt="Enterijer Gaucosi">
                                                 <div class="item-categorize-3__overlay"></div>
                                                 <div class="item-categorize-3__content">
                                                     <div class="item-categorize-3__title clearfix">
@@ -573,7 +593,7 @@
                         </div>
                         <div class="col-md-6 space-md-30 clearfix">            
                             <div class="overlay-boxes__text with-bg-left text-center">
-                                <h1 class="text-bold main-header">Adresa</h1>
+                                <h2 class="text-bold main-header">Adresa</h2>
                                 <p>NALAZIMO SE KOD KALEMEGDANA, U SAMOM SRCU DORĆOLA</p>
                                 <ul>
                                     <li>Bulevar Vojvode Bojovića 10, 11000 Beograd</li>
@@ -587,7 +607,7 @@
                     <div class="container-fluid-flat overlay-boxes left" >
                         <div class="col-md-6 space-md-30 clearfix">            
                             <div class="overlay-boxes__text text-center" style="background:white! important;">
-                                <h1 class="text-bold main-header">REZERVACIJE</h1>
+                                <h2 class="text-bold main-header">REZERVACIJE</h2>
                                 <p>Ukoliko želite da posetite naš klub, rezervacije su besplatne, ali obavezne.
                                     Možete rezervisati preko  broja telefona, emaila ili online jednostavnim popunjavanjem forme.</p>
                                 <ul>
@@ -601,7 +621,7 @@
                         </div>
                         <div class="col-md-6 space-md-30 add-rotat-header clearfix">
                             <h4 class="add-rotat-header__rotatleft animatedIn" data-animation="fadeInDown">give us a ring </h4>
-                            <img src="images/mapa/mapabeta.jpeg" alt="">
+                            <img src="images/mapa/mapabeta.jpeg" alt="Mapa">
                         </div>
                     </div><!-- / container-fluid-flat -->
 
@@ -614,7 +634,7 @@
                             <div class="row">
                                 <div class="col-md-12 text-center">
                                     <div class="quform-outer">
-                                        <h1 class="text-bold main-header">Rezervacija</h1><br>
+                                        <h2 class="text-bold main-header">Rezervacija</h2><br>
                                         <form class="quform quform-lines" action="<?php echo url("/reserve") ?>" method="post" enctype="multipart/form-data" onclick="">
                                             <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
                                             <div class="quform-inner">
@@ -662,10 +682,10 @@
                                                                 <div class="quform-input">
                                                                     <select class="cs-select cs-skin-lines" id="single_select_seating" name="seating_select">
                                                                         <option value="SEPARE">SEPARE(poželjna potrošnja - 200e)</option>
-                                                                        <option value="VISOKO">VISOKO SEDENJE(poželjna potrošnja - 100e)</option>
-                                                                        <option value="KAFANSKI">KAFANSKI STO(poželjna potrošnja - 50e) </option>
-                                                                        <option value="BARSKI">BARSKI STO(poželjna potrošnja - NEMA)</option>
-                                                                        <option value="PULT">PULT(poželjna potrošnja - NEMA)</option>
+                                                                        <option value="VISOKO">VISOKO SEDENJE(pp - 100e)</option>
+                                                                        <option value="KAFANSKI">KAFANSKI STO(pp - 50e) </option>
+                                                                        <option value="BARSKI">BARSKI STO</option>
+                                                                        <option value="PULT">PULT</option>
                                                                     </select>
                                                                 </div>
                                                             </div>
@@ -728,7 +748,7 @@
                 <section id="gallery" class="pages">
 
                     <div id="ri-grid" class="ri-grid ri-grid-size-2">
-                        <img class="ri-loading-image" src="images/ajax-loader.gif" alt="">
+                        <img class="ri-loading-image" src="images/ajax-loader.gif" alt="Loader">
                         <ul>
                             <li><a href="#"><img src="images/atmosfera/atmosfera.jpg" alt="Gaucosi Atmosfera"></a></li>
                             <li><a href="#"><img src="images/atmosfera/atmosfera2.jpg" alt="Gaucosi Atmosfera"></a></li>
