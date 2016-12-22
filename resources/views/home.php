@@ -612,7 +612,7 @@
                         </div>
                         <div class="col-md-6 space-md-30 add-rotat-header clearfix">
                             <h4 class="add-rotat-header__rotatleft animatedIn" data-animation="fadeInDown">give us a ring </h4>
-                            <img src="images/mapa/mapabeta.jpg" alt="Mapa">
+                            <img src="images/mapa/mapabeta.svg" alt="Mapa">
                         </div>
                     </div><!-- / container-fluid-flat -->
 
