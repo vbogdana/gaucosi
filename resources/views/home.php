@@ -5,7 +5,7 @@
     <head>
         <meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title> Gaučosi - Belgrade Night Club</title>
+        <title> Klub Gaučosi - Belgrade Night Club</title>
 		
 						<script>
 				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -20,7 +20,7 @@
 				
 				
 		<meta property="fb:pages" content="gaucosi.belgrade">
-		<meta name="description" content="Gaucosi jedinstven nocni klub u Beogradu,koncept dopadljiv svima.Nalazi se u samom srcu Dorcola kod Kalemegdana.064 900 20 80">
+		<meta name="description" content="Gaucosi - jedinstveni nocni klub u Beogradu, koncept dopadljiv svima. Nalazi se u samom srcu Dorcola kod Kalemegdana. 064 900 20 80">
 		<meta property="og:locale" content="en_US">
 		<meta property="og:type" content="website">
 		<meta property="og:url" content="http://www.gaucosi.rs">
