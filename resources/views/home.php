@@ -66,8 +66,8 @@
                             <div class="brand-wrap clearfix">
 
                                 <a href="<?php echo url("") ?>" class="brand">
-                                    <img src="images/logo/logobeli.png" class="logo-white retina-img" alt="logo gaucosi">
-                                    <img src="images/logo/logocrni.png" class="logo-dark retina-img" alt="logo gaucosi">
+                                    <img src="images/logo/logobeli.png" class="logo-white" alt="logo gaucosi">
+                                    <img src="images/logo/logocrni.png" class="logo-dark" alt="logo gaucosi">
 
                                 </a>
                             </div>
@@ -141,7 +141,7 @@
 
                                     <!-- LAYER NR. 4 -->
                                     <div class="tp-caption Creative-Title   tp-resizeme rs-parallaxlevel-1" id="slide-688-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-fontsize="['70','70','50','40']" data-lineheight="['70','70','55','45']" data-width="['none','none','none','320']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2550" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap;text-align:center;">
-                                        <img src="images/logo/logobeli.png" class="logo-white retina-img" alt="logo gaucosi">
+                                        <img src="images/logo/logobeli.png" class="logo-white" alt="logo gaucosi">
                                     </div>
 
                                     <!-- LAYER NR. 6 -->
@@ -175,15 +175,13 @@
                                     <!-- LAYERS -->
 
                                     <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption Creative-SubTitle   tp-resizeme rs-parallaxlevel-2" id="slide-689-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-91','-91','-81','-64']" data-fontsize="['20','20','20','18']" data-lineheight="['14','14','14','12']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2350" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;text-align:center; ">
+                                    <div class="tp-caption Creative-SubTitle   tp-resizeme rs-parallaxlevel-2" id="slide-689-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-161','-161','-131','-64']" data-fontsize="['20','20','20','18']" data-lineheight="['14','14','14','12']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2350" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;text-align:center; ">
                                         OSETI UKUS PRAVE ZABAVE
                                     </div>
 
                                     <!-- LAYER NR. 4 -->
-                                    <div class="tp-caption Creative-Title   tp-resizeme rs-parallaxlevel-1" id="slide-689-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-fontsize="['70','70','50','40']" data-lineheight="['70','70','55','45']" data-width="['none','none','none','320']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2550" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap;text-align:center;">
-                                        pripremi sva svoja
-                                        <br/>
-                                        čula
+                                    <div class="tp-caption Creative-Title   tp-resizeme rs-parallaxlevel-1" id="slide-689-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-fontsize="['70','70','50','40']" data-lineheight="['70','70','55','45']" data-width="['none','none','none','320']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2550" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: normal;text-align:center;">
+                                        pripremi sva svoja čula
                                     </div>
 
                                     <!-- LAYER NR. 6 -->
@@ -222,9 +220,8 @@
                                     </div>
 
                                     <!-- LAYER NR. 4 -->
-                                    <div class="tp-caption Creative-Title   tp-resizeme rs-parallaxlevel-1" id="slide-690-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-fontsize="['70','70','50','40']" data-lineheight="['70','70','55','45']" data-width="['none','none','none','320']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2550" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap;text-align:center;">
-                                        rezerviši
-                                        <br/>online
+                                    <div class="tp-caption Creative-Title   tp-resizeme rs-parallaxlevel-1" id="slide-690-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-fontsize="['70','70','50','40']" data-lineheight="['70','70','55','45']" data-width="['none','none','none','320']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2550" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: normal;text-align:center;">
+                                        rezerviši online
                                     </div>
                                     <!-- LAYER NR. 6 -->
 
@@ -482,7 +479,7 @@
                         <div class="events-wrapper">
                             <div class="events">
                                 <ol>
-                                    <li><a href="#0" data-date="01/01/2009" class="selected">Karta pića</a></li>
+                                    <li><a href="#0" data-date="01/01/2009" class="selected">Cenovnik</a></li>
                                     <li><a href="#0" data-date="01/01/2010">Kokteli</a></li>
                                     <li><a href="#0" data-date="01/01/2011">Žestoka Pića</a></li>
                                     <li><a href="#0" data-date="01/01/2012">Vina i Piva</a></li>
@@ -503,7 +500,7 @@
                             <li class="selected overlay-boxes" data-date="01/01/2009">
                                 <div class="col-sm-6 overlay-boxes__text">
                                     <div class="overlay-boxes__text-inside" style="background:white! important;">
-                                        <h2 class="main-header">KARTA PIĆA</h2>
+                                        <h2 class="main-header">CENOVNIK</h2>
                                         <em>+381 64 900 20 80 Gaučosi</em>
                                         <p class="deco-text">   
                                             Ovde možete pogledati našu pažljivo selektovanu ponudu alkoholnih i bezalkoholnih napitaka.
@@ -536,7 +533,7 @@
                                         <h2 class="main-header">ŽESTOKA PIĆA</h2>
                                         <em>+381 64 900 20 80 Gaučosi</em>
                                         <p class="deco-text">   
-                                            Selekciju žestokih pića i njihovu cenu možete pogledati sa desne strane. 
+                                            Možemo se pohvaliti odličnom selekcijom žestokih pića za svačiji ukus. 
                                         </p>
                                     </div>
                                 </div>
@@ -551,7 +548,7 @@
                                         <h2 class="main-header">VINA I PIVA</h2>
                                         <em>+381 64 900 20 80 Gaučosi</em>
                                         <p class="deco-text">   
-                                            Odličan izbor žestokih pića dopunjuje selekcija vina vrhunskog kvaliteta domaće i strane proizvodnje.
+                                            Sjajan izbor žestokih pića dopunjuje selekcija vina vrhunskog kvaliteta domaće i strane proizvodnje.
                                             Pored toga nudimo i širok spektar domaćih rakija i točenih i flaširanih piva.
                                         </p>
                                     </div>
@@ -603,7 +600,7 @@
                             <div class="overlay-boxes__text text-center" style="background:white! important;">
                                 <h2 class="text-bold main-header">REZERVACIJE</h2>
                                 <p>Ukoliko želite da posetite naš klub, rezervacije su besplatne, ali obavezne.
-                                    Možete rezervisati preko  broja telefona, emaila ili online jednostavnim popunjavanjem forme.</p>
+                                    Možete rezervisati preko  broja telefona, emaila ili online - jednostavnim popunjavanjem forme.</p>
                                 <ul>
                                     <li>tel: <a href="tel:+381649002080"> +381 (064) 900 20 80 </a></li>
                                     <li>mail: <a href="mailto:office@gaucosi.rs"> office@gaucosi.rs </a></li>
@@ -675,10 +672,10 @@
                                                                 </label>
                                                                 <div class="quform-input">
                                                                     <select class="cs-select cs-skin-lines" id="single_select_seating" name="seating_select">
-                                                                        <option value="SEPARE">SEPARE(poželjna potrošnja - 200e)</option>
-                                                                        <option value="VISOKO">VISOKO SEDENJE(pp - 100e)</option>
-                                                                        <option value="KAFANSKI">KAFANSKI STO(pp - 50e) </option>
-                                                                        <option value="BARSKI">BARSKI STO</option>
+                                                                        <option value="SEPARE">SEPARE</option>
+                                                                        <option value="VISOKO SEDENJE">VISOKO SEDENJE</option>
+                                                                        <option value="KAFANSKI STO">KAFANSKI STO</option>
+                                                                        <option value="BARSKI STO">BARSKI STO</option>
                                                                         <option value="PULT">PULT</option>
                                                                     </select>
                                                                 </div>
@@ -861,9 +858,9 @@
                                     <ul>
                                         <li><a href="https://www.facebook.com/gaucosi.belgrade/"><i class="fa fa-facebook"></i></a>
                                         </li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                                        </li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a>
+                                        <!--<li><a href="#"><i class="fa fa-twitter"></i></a>
+                                        </li>-->
+                                        <li><a href="https://www.instagram.com/gaucosi/"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
