@@ -244,6 +244,7 @@
                                                     options.successEnd.call(self, response, $successMessage);
                                                     }
                                                     });
+                                                    $form.resetForm();
                                                 } else if (response.responseText == 'fail') {
                                                     self.errorMessage('<pre>' + "Something went wrong. Please try again shortly." + '</pre>');
                                                 } else {

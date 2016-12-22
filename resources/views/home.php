@@ -656,7 +656,7 @@
                                                                 </label>
                                                                 <div class="quform-input">
                                                                     <select class="cs-select cs-skin-lines" id="time_select" name="time_select">
-                                                                        <option value="petak 23.12.">PETAK 23.12. </option>
+                                                                        <option value="petak 23.12." selected>PETAK 23.12. </option>
                                                                         <option value="subota 24.12.">SUBOTA 24.12.</option>
                                                                         <option value="petak 30.12.">PETAK 30.12. </option>
                                                                         <option value="subota 31.12.">SUBOTA 31.12.</option>
@@ -672,7 +672,7 @@
                                                                 </label>
                                                                 <div class="quform-input">
                                                                     <select class="cs-select cs-skin-lines" id="single_select_seating" name="seating_select">
-                                                                        <option value="SEPARE">SEPARE</option>
+                                                                        <option value="SEPARE" selected>SEPARE</option>
                                                                         <option value="VISOKO SEDENJE">VISOKO SEDENJE</option>
                                                                         <option value="KAFANSKI STO">KAFANSKI STO</option>
                                                                         <option value="BARSKI STO">BARSKI STO</option>
@@ -689,7 +689,7 @@
                                                                 </label>
                                                                 <div class="quform-input">
                                                                     <select class="cs-select cs-skin-lines" id="single_select_person" name="people_select">
-                                                                        <option value="2-5">2-5</option>
+                                                                        <option value="2-5" selected>2-5</option>
                                                                         <option value="5-8">5-8</option>
                                                                         <option value="8-12">8-12</option>
                                                                         <option value="12+">12+</option>

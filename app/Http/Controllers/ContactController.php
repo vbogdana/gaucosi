@@ -19,8 +19,8 @@ class ContactController extends Controller
 
         Mail::send('emails.reservation', $data, function ($message)
         {
-            $message->to('bveselinovic555@gmail.com')->subject('Online rezervacija Gaučosi');
-            $message->to('bogdana.veselinovic@yahoo.com')->subject('Online rezervacija Gaučosi');
+            $message->to('gaucosi011@gmail.com')->subject('Online rezervacija Gaučosi');
+            //$message->to('bogdana.veselinovic@yahoo.com')->subject('Online rezervacija Gaučosi');
         });
 
         if( count(Mail::failures()) > 0 ) {
