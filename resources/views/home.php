@@ -264,10 +264,9 @@
                         <div class="col-sm-6">
                             <div class="overlay-boxes__text with-bg-right">
                                 <div class="overlay-boxes__text-inside">
-                                    <h2 class="main-header">MILAN ANKIĆ</h2>
+                                    <h2 class="main-header">PETAR MITIĆ</h2>
                                     <p class="deco-text remove-pb-t">
-                                        Najbolji provod u Beogradu ovog, kao i svakog petka, u Gaučosima.
-                                        Za dobru zabavu uz najnovije hitove pobrinuće se Milan Ankić i Nađa Golubović. 
+                                        Dobrodosli u GAUČOSE da ispratimo poslednji petak ove godine! 
                                         <br />
                                         <a href="#reserv" class="btn-main medium transparent-2 scrollTo">
                                             Rezerviši
@@ -294,10 +293,9 @@
                         <div class="col-sm-6">
                             <div class="overlay-boxes__text">
                                 <div class="overlay-boxes__text-inside" style="background:white! important;">
-                                    <h2 class="main-header">Filip Mitrović</h2>
+                                    <h2 class="main-header">DOČEK NOVE GODINE</h2>
                                     <p class="deco-text remove-pb-t">
-                                        Ne propustite priliku da posetite Gaučose u subotu 25.12.2016.
-                                        i uverite se u nezaboravan provod uz Filipa Mitrovića i Antidepresiv Bend!
+                                        Za novogodišnju noć spremili smo Vam fantastičnu ponudu hrane i pića, uz nastup Borisa Stjepanovića i Milene Sandić, i to sve po ekskluzivnoj ceni od 35€! 
                                         <br />
                                         <a href="#reserv" class="btn-main medium transparent-2 scrollTo">
                                             Rezerviši
@@ -656,10 +654,10 @@
                                                                 </label>
                                                                 <div class="quform-input">
                                                                     <select class="cs-select cs-skin-lines" id="time_select" name="time_select">
-                                                                        <option value="petak 23.12." selected>PETAK 23.12. </option>
-                                                                        <option value="subota 24.12.">SUBOTA 24.12.</option>
-                                                                        <option value="petak 30.12.">PETAK 30.12. </option>
-                                                                        <option value="subota 31.12.">SUBOTA 31.12.</option>
+                                                                        <option value="petak 30.12.2016." selected>PETAK 30.12. </option>
+                                                                        <option value="subota 31.12.2016.">SUBOTA 31.12.</option>
+																		<option value="petak 6.1.2017.">PETAK 6.1. </option>
+                                                                        <option value="subota 7.1.2017.">SUBOTA 7.1.</option>
                                                                     </select>
                                                                 </div>
                                                             </div>
