@@ -15,4 +15,8 @@ Route::get('/', function () {
     return view('home');
 })->name("/");
 
+Route::get('/galerija/{day}-{date}', function ($day, $date) {
+    return view('/albums/'.$day.'-'.$date);
+})->name("gallery");
+
 Route::post('/reserve', "ContactController@reserve")->name("online-reservation");

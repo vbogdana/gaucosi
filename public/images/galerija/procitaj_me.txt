@@ -1,0 +1,6 @@
+svaki folder sa slikama albuma treba da se zove po formatu "dan-datum" (npr: "petak-30122016")
+svaki album mora da sadrzi jednu cover sliku koja ce se nalaziti na omotu albuma na home pageu
+ta slika mora biti formata 800x800 i da se zove "cover.jpg"
+ostale slike imenovati rednim brojevima nije bitno
+nije bitan broj slika u galeriji, moze proizvoljan
+neophodno je uzimati samo "landscape" slike
