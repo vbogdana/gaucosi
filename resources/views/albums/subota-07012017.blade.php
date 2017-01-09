@@ -20,6 +20,14 @@
                         <div> <img src="<?php echo url("") ?>/images/galerija/subota-07012017/6.jpg" alt=""> </div>
 
                         <div> <img src="<?php echo url("") ?>/images/galerija/subota-07012017/7.jpg" alt=""> </div>
+						
+						<div> <img src="<?php echo url("") ?>/images/galerija/subota-07012017/8.jpg" alt=""> </div>
+
+                        <div> <img src="<?php echo url("") ?>/images/galerija/subota-07012017/9.jpg" alt=""> </div>
+
+                        <div> <img src="<?php echo url("") ?>/images/galerija/subota-07012017/10.jpg" alt=""> </div>
+
+                        <div> <img src="<?php echo url("") ?>/images/galerija/subota-07012017/11.jpg" alt=""> </div>
                         
                         <!-- ...itd proizvoljan broj slika -->
                     </div>
