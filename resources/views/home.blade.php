@@ -11,7 +11,7 @@
                                         <a href="#about" data-scroll class="scrollTo">O NAMA</a>
                                     </li>
                                     <li>
-                                        <a href="#menu" data-scroll class="scrollTo">KARTA PIĆA</a>
+                                        <a href="#menu" data-scroll class="scrollTo">CENOVNIK</a>
                                     </li>
                                     <li>
                                         <a href="#contact" data-scroll class="scrollTo">NAŠA LOKACIJA</a>
@@ -300,7 +300,7 @@
                 <section id="events" class="pages layer_z" data-zindex="10">
 
                     
-<!--
+
                     <div class="container-fluid-flat overlay-boxes">
 
                         <div class="col-sm-6">
@@ -309,12 +309,12 @@
 
                                 <div class="overlay-boxes__text-inside">
 
-                                    <h2 class="main-header">PETAR MITIĆ</h2>
+                                    <h2 class="main-header">Boris Stjepanović i Milena Sandić</h2>
 
                                     <p class="deco-text remove-pb-t">
 
-                                        Dobrodosli u GAUČOSE da ispratimo poslednji petak ove godine! 
-
+                                        Praznici su prošli, ali mi nastavljamo i dalje u istom ritmu, ovog petka zabavljaće vas
+                                        fenomenalni Borsi Stjepanović i Milena Sandić!
                                         <br />
 
                                         <a href="#reserv" class="btn-main medium transparent-2 scrollTo">
@@ -344,7 +344,7 @@
                         </div>
 
                     </div>                
--->
+
 
 
                     <div class="container-fluid-flat overlay-boxes left">
@@ -367,11 +367,11 @@
 
                                 <div class="overlay-boxes__text-inside" style="background:white! important;">
 
-                                    <h2 class="main-header">BOŽIĆNA ŽURKA</h2>
+                                    <h2 class="main-header">Filip Mitrović i Antidepresiv band</h2>
 
                                     <p class="deco-text remove-pb-t">
 
-                                        Kažu kako za Božić, tako cele godine. Najbolji provod u subotu je u Gaučosima uz Filipa Mitrović i Antidepresiv Bend!
+                                         Najbolji provod u subotu je u Gaučosima uz Filipa Mitrović i Antidepresiv Bend!
 
                                         <br />
 
@@ -1352,6 +1352,25 @@
                     <div class="block-grid col-md-12 space-y-t">
                         <div class="row">
                             
+                                   <div class="col-sm-3">
+                                <a href="{{ route("gallery", ["day" => "subota", "date" => "14012017"]) }}" class="block-grid__inner add-mb">
+                                    <div class="block-grid__type">
+                                        SUBOTA
+                                    </div>
+                                    <div class="block-grid__img">
+                                        <img src="images/galerija/subota-14012017/cover.jpg" alt="Klub Gaucosi +381649002080">
+                                    </div>
+                                    <div class="block-grid__text">
+                                        <div class="block-grid__text-date">
+                                            <time datetime="2015-04-26T12:04"> 14.Jan.<span class="year-date">2017</span></time>
+                                        </div>
+                                        <div class="block-grid__text-title">
+                                            <h2 class="main-header">BORIS STJEPANOVIĆ I MIILENA SANDIĆ</h2>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
                             <div class="col-sm-3">                                
                                 <a href="{{ route("gallery", ["day" => "subota", "date" => "07012017"]) }}" class="block-grid__inner add-mb">                                   
                                     <div class="block-grid__type">
@@ -1409,6 +1428,12 @@
                                 </a>
                             </div>
                             
+                            
+ 
+                        </div>
+                        
+                        <div class="row space-y-t">
+                            
                             <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "petak", "date" => "30122016"]) }}" class="block-grid__inner add-mb">
                                     <div class="block-grid__type">
@@ -1427,12 +1452,8 @@
                                     </div>
                                 </a>
                             </div>
- 
-                        </div>
-                        
-                        <div class="row space-y-t">
 						
-							<div class="col-sm-3">                                
+                                <div class="col-sm-3">                                
                                 <a href="{{ route("gallery", ["day" => "subota", "date" => "24122016"]) }}" class="block-grid__inner add-mb">                                   
                                     <div class="block-grid__type">
                                         SUBOTA
@@ -1470,24 +1491,7 @@
                                 </a>
                             </div>
                             
-                            <div class="col-sm-3">
-                                <a href="{{ route("gallery", ["day" => "subota", "date" => "17122016"]) }}" class="block-grid__inner add-mb">
-                                    <div class="block-grid__type">
-                                        SUBOTA
-                                    </div>
-                                    <div class="block-grid__img">
-                                        <img src="images/galerija/subota-17122016/cover.jpg" alt="Klub Gaucosi +381649002080">
-                                    </div>
-                                    <div class="block-grid__text">
-                                        <div class="block-grid__text-date">
-                                            <time datetime="2015-04-26T12:04"> 17.Dec.<span class="year-date">2016</span></time>
-                                        </div>
-                                        <div class="block-grid__text-title">
-                                            <h2 class="main-header">FILIP MITROVIĆ</h2>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                     
                             
                             <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "petak", "date" => "16122016"]) }}" class="block-grid__inner add-mb">
