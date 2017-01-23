@@ -309,12 +309,11 @@
 
                                 <div class="overlay-boxes__text-inside">
 
-                                    <h2 class="main-header">Boris Stjepanović i Milena Sandić</h2>
+                                    <h2 class="main-header">Veliko Gostovanje Ljuba Perućica!</h2>
 
                                     <p class="deco-text remove-pb-t">
-
-                                        Praznici su prošli, ali mi nastavljamo i dalje u istom ritmu, ovog petka zabavljaće vas
-                                        fenomenalni Borsi Stjepanović i Milena Sandić!
+                                          Ljuba Perućica gostuje ovog petka u gaučosima, da li ste spremni za najluđi provod u gradu!          
+                                        
                                         <br />
 
                                         <a href="#reserv" class="btn-main medium transparent-2 scrollTo">
@@ -1089,14 +1088,14 @@
 
                                                                     <select class="cs-select cs-skin-lines" id="time_select" name="time_select">
 
-                                                                        <option value="subota 7.1.2017." selected>SUBOTA 7.1.</option>
+                                                                        <option value="subota 7.1.2017." selected>PETAK 27.1.</option>
                                                                         
-                                                                        <option value="petak 13.1.2017.">PETAK 13.1. </option>
+                                                                        <option value="petak 13.1.2017.">PETAK 27.1. </option>
 
-                                                                        <option value="subota 14.1.2017.">SUBOTA 14.1.</option>
+                                                                        <option value="subota 14.1.2017.">SUBOTA 28.1.</option>
 
-									<option value="petak 20.1.2017.">PETAK 20.1. </option>
-                                                                        <option value="subota 21.1.2017.">SUBOTA 21.1.</option>
+									<option value="petak 20.1.2017.">PETAK 3.2. </option>
+                                                                        <option value="subota 21.1.2017.">SUBOTA 4.2.</option>
                                                                     </select>
 
                                                                 </div>
