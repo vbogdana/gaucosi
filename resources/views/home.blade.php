@@ -1351,7 +1351,26 @@
                     <div class="block-grid col-md-12 space-y-t">
                         <div class="row">
                             
-                                   <div class="col-sm-3">
+                            <div class="col-sm-3">
+                                <a href="{{ route("gallery", ["day" => "petak", "date" => "27012017"]) }}" class="block-grid__inner add-mb">
+                                    <div class="block-grid__type">
+                                        PETAK
+                                    </div>
+                                    <div class="block-grid__img">
+                                        <img src="images/galerija/petak-27012017/cover.jpg" alt="Klub Gaucosi +381649002080">
+                                    </div>
+                                    <div class="block-grid__text">
+                                        <div class="block-grid__text-date">
+                                            <time datetime="2015-04-26T12:04"> 27.Jan.<span class="year-date">2017</span></time>
+                                        </div>
+                                        <div class="block-grid__text-title">
+                                            <h2 class="main-header">LJUBA PERUĆICA</h2>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                            <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "subota", "date" => "14012017"]) }}" class="block-grid__inner add-mb">
                                     <div class="block-grid__type">
                                         SUBOTA
@@ -1407,8 +1426,12 @@
                                     </div>
                                 </a>
                             </div>
+                         
+                        </div>                        
+                        
+                        <div class="row space-y-t">
                             
-                            <div class="col-sm-3">
+                             <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "subota", "date" => "31122016"]) }}" class="block-grid__inner add-mb">
                                     <div class="block-grid__type">
                                         SUBOTA
@@ -1426,12 +1449,6 @@
                                     </div>
                                 </a>
                             </div>
-                            
-                            
- 
-                        </div>
-                        
-                        <div class="row space-y-t">
                             
                             <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "petak", "date" => "30122016"]) }}" class="block-grid__inner add-mb">
@@ -1489,28 +1506,7 @@
                                     </div>
                                 </a>
                             </div>
-                            
-                     
-                            
-                            <div class="col-sm-3">
-                                <a href="{{ route("gallery", ["day" => "petak", "date" => "16122016"]) }}" class="block-grid__inner add-mb">
-                                    <div class="block-grid__type">
-                                        PETAK
-                                    </div>
-                                    <div class="block-grid__img">
-                                        <img src="images/galerija/petak-16122016/cover.jpg" alt="Klub Gaucosi +381649002080">
-                                    </div>
-                                    <div class="block-grid__text">
-                                        <div class="block-grid__text-date">
-                                            <time datetime="2015-04-26T12:04"> 16.Dec.<span class="year-date">2016</span></time>
-                                        </div>
-                                        <div class="block-grid__text-title">
-                                            <h2 class="main-header">2. ROĐENDAN</h2>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                                   
+                                                            
                         </div>
                     </div>
 
