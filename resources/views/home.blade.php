@@ -1087,15 +1087,12 @@
                                                                 <div class="quform-input">
 
                                                                     <select class="cs-select cs-skin-lines" id="time_select" name="time_select">
-
-                                                                        <option value="subota 7.1.2017." selected>PETAK 27.1.</option>
-                                                                        
-                                                                        <option value="petak 13.1.2017.">PETAK 27.1. </option>
-
-                                                                        <option value="subota 14.1.2017.">SUBOTA 28.1.</option>
-
-									<option value="petak 20.1.2017.">PETAK 3.2. </option>
-                                                                        <option value="subota 21.1.2017.">SUBOTA 4.2.</option>
+                                                                        <option value="petak 03.02.2017." selected>PETAK 3.2. </option>
+                                                                        <option value="subota 04.02.2017.">SUBOTA 4.2.</option>
+                                                                        <option value="petak 10.02.2017.">PETAK 10.2. </option>
+                                                                        <option value="subota 11.02.2017.">SUBOTA 11.2.</option>
+                                                                        <option value="petak 17.02.2017.">PETAK 17.2. </option>
+                                                                        <option value="subota 18.02.2017.">SUBOTA 18.2.</option>
                                                                     </select>
 
                                                                 </div>
@@ -1352,19 +1349,38 @@
                         <div class="row">
                             
                             <div class="col-sm-3">
-                                <a href="{{ route("gallery", ["day" => "petak", "date" => "27012017"]) }}" class="block-grid__inner add-mb">
+                                <a href="{{ route("gallery", ["day" => "subota", "date" => "28012017"]) }}" class="block-grid__inner add-mb">
+                                    <div class="block-grid__type">
+                                        SUBOTA
+                                    </div>
+                                    <div class="block-grid__img">
+                                        <img src="images/galerija/subota-28012017/cover.jpg" alt="Klub Gaucosi +381649002080">
+                                    </div>
+                                    <div class="block-grid__text">
+                                        <div class="block-grid__text-date">
+                                            <time datetime="2015-04-26T12:04"> 28.Jan.<span class="year-date">2017</span></time>
+                                        </div>
+                                        <div class="block-grid__text-title">
+                                            <h2 class="main-header">FILIP MITROVIĆ I ANTIDEPRESIV BEND</h2>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                            <div class="col-sm-3">
+                                <a href="{{ route("gallery", ["day" => "petak", "date" => "20012017"]) }}" class="block-grid__inner add-mb">
                                     <div class="block-grid__type">
                                         PETAK
                                     </div>
                                     <div class="block-grid__img">
-                                        <img src="images/galerija/petak-27012017/cover.jpg" alt="Klub Gaucosi +381649002080">
+                                        <img src="images/galerija/petak-20012017/cover.jpg" alt="Klub Gaucosi +381649002080">
                                     </div>
                                     <div class="block-grid__text">
                                         <div class="block-grid__text-date">
-                                            <time datetime="2015-04-26T12:04"> 27.Jan.<span class="year-date">2017</span></time>
+                                            <time datetime="2015-04-26T12:04"> 20.Jan.<span class="year-date">2017</span></time>
                                         </div>
                                         <div class="block-grid__text-title">
-                                            <h2 class="main-header">LJUBA PERUĆICA</h2>
+                                            <h2 class="main-header">BORIS STJEPANOVIĆ I MILENA SANDIĆ</h2>
                                         </div>
                                     </div>
                                 </a>
@@ -1408,6 +1424,10 @@
                                 </a>                             
                             </div>
 
+                        </div>                        
+                        
+                        <div class="row space-y-t">
+                            
                             <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "nedelja", "date" => "01012017"]) }}" class="block-grid__inner add-mb">
                                     <div class="block-grid__type">
@@ -1426,10 +1446,6 @@
                                     </div>
                                 </a>
                             </div>
-                         
-                        </div>                        
-                        
-                        <div class="row space-y-t">
                             
                              <div class="col-sm-3">
                                 <a href="{{ route("gallery", ["day" => "subota", "date" => "31122016"]) }}" class="block-grid__inner add-mb">
@@ -1487,26 +1503,7 @@
                                     </div>                                    
                                 </a>                             
                             </div>
-                                                      
-                            <div class="col-sm-3">
-                                <a href="{{ route("gallery", ["day" => "petak", "date" => "23122016"]) }}" class="block-grid__inner add-mb">
-                                    <div class="block-grid__type">
-                                        PETAK
-                                    </div>
-                                    <div class="block-grid__img">
-                                        <img src="images/galerija/petak-23122016/cover.jpg" alt="Klub Gaucosi +381649002080">
-                                    </div>
-                                    <div class="block-grid__text">
-                                        <div class="block-grid__text-date">
-                                            <time datetime="2015-04-26T12:04"> 23.Dec.<span class="year-date">2016</span></time>
-                                        </div>
-                                        <div class="block-grid__text-title">
-                                            <h2 class="main-header">MILAN ANKIĆ</h2>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                                                            
+                                                          
                         </div>
                     </div>
 
